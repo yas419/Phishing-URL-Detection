@@ -66,4 +66,4 @@ streamlit run app.py
 
 ## ✨ Author
 
-Made with ❤️ by **Jawahar Parvez**
+Made with ❤️ by **Yaseen**
