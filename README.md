@@ -4,7 +4,7 @@ A simple yet powerful web application that identifies whether a URL is **legitim
 
 ## 🚀 Try the App
 
-**[Launch the Web App](https://phishing-url-detection-system-byparvez.streamlit.app/)**  
+**[Launch the Web App](https://yasurldetection.streamlit.app/)** 
 *No installation needed – runs entirely in your browser!*
 
 ## 📌 Features
